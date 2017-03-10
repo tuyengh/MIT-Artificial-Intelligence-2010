@@ -1,2 +1,2 @@
 # MIT-Artificial-Intelligence-2010
-This contains my answer to homework problems in the course
+This contains my codes to answer homework problems in the course
